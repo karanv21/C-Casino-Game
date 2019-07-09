@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Welcome to the casino game!" << endl << "The rules are: " << endl <<
+    cout << " Welcome to the casino game!" << endl << "The rules are: " << endl <<
     "If your number matches the number produced by the casino board, you will win 2x your bet. " <<
     "If your number does not match the casino board number, you will lose your bet amount." << endl;
     cout << "What is your name?" << endl;
